@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_github_account">
+    <title>2.3 创建账号</title>
+    <shortdesc>简单几步即可创建GitHub账号。</shortdesc>
+    <taskbody>
+        <context>
+            <ul id="ul_q4l_msl_sdc">
+                <li>首先要确保能正常访问GitHub，请使用VPN。</li>
+            </ul>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开GitHub官网（<xref href="https://github.com" format="html" scope="external"
+                        >https://GitHub.com</xref>）。</cmd>
+            </step>
+            <step>
+                <cmd>点击<b>sign up for GitHub</b>。</cmd>
+                <info><image href="images/github%20page.png" width="400" id="image_qtq_5qn_sdc"
+                    /></info>
+            </step>
+            <step>
+                <cmd>输入邮箱，密码，用户名。</cmd>
+                <info><image href="images/enter%20information%20for%20registration.png" width="400"
+                        id="image_ix1_3tl_sdc"/></info>
+            </step>
+            <step>
+                <cmd>完善个人信息。</cmd>
+                <info><image href="images/fill%20in%20other%20details.png" width="400"
+                        id="image_tgd_ltl_sdc"/></info>
+                <stepresult>注册成功。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

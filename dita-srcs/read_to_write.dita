@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="read_to_write">
+    <title>修改权限</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>默认来说, 组织的普通成员对 repository 访问权限是只读, 即有浏览代码的权限, 没有修改的权限。 这样的权限管理是比较推荐的, 普通成员可以通过 pull
+                request 来提交自己的代码, 团队所有者可以进行代码检查, 以防止出现不好的代码。</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>成员需要修改的权限。</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty>组长可以修改。</responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>选择<b>Settings</b>，选中<b>Collaborators and
+                            teams</b>，点击<b>manage</b>。</cmd>
+                        <info><image href="images/settings-manage.jpg" width="400"
+                                id="image_zcd_xjm_sdc"/></info>
+                    </step>
+                    <step>
+                        <cmd>选择<b>Member privileges</b>，选中<b>Read</b>，点击<b>Write</b>。</cmd>
+                        <info><image href="images/member%20privileges%20-%20read.jpg" width="400"
+                                id="image_qpy_ckm_sdc"/></info>
+                        <info><image href="images/change%20base%20permission%20to%20%22write%22.jpg"
+                                width="400" id="image_dj1_5tn_sdc"/></info>
+                    </step>
+                    <step>
+                        <cmd>权限已经修改。</cmd>
+                        <info><image href="images/result-write.jpg" width="400"
+                                id="image_pm5_wtn_sdc"/></info>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

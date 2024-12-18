@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="resources">
+    <title>5.2 资源链接</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_j2y_llm_sdc">
+                <li><xref href="https://docs.github.com/" format="html" scope="external">GitHub
+                        官方文档（英语）</xref></li>
+                <li><xref href="https://docs.github.com/zh/get-started" format="html"
+                        scope="external">GitHub官方文档（中文）</xref></li>
+                <li><xref href="https://www.markdownguide.org/" format="html" scope="external"
+                        >Markdown 使用指南</xref></li>
+                <li><xref href="https://git-scm.com/book/zh/v2" format="html" scope="external">Git
+                        使用教程</xref></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

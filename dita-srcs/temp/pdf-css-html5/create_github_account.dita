@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/freyaaf/Desktop/GitHub for Technical Writers/temp/pdf-css-html5?><?workdir-uri file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="create_github_account" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="task:1;3:34" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="title:1;4:12">2.3 创建账号</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="shortdesc:1;5:16">简单几步即可创建GitHub账号。</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="context:1;7:18">
+            <ul id="ul_q4l_msl_sdc" class="- topic/ul " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="ul:1;8:37">
+                <li class="- topic/li " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="li:1;9:21">首先要确保能正常访问GitHub，请使用VPN。</li>
+            </ul>
+            <p class="- topic/p " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="p:1;11:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="steps:1;13:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="step:1;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="cmd:1;15:22">打开GitHub官网（<xref href="https://github.com" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="xref:1;16:26"><?ditaot usertext?>https://GitHub.com</xref>）。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="step:2;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="cmd:2;19:22">点击<b class="+ topic/ph hi-d/b " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="b:1;19:27">sign up for GitHub</b>。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="info:1;20:23"><image href="images/github%20page.png" width="400" id="image_qtq_5qn_sdc" placement="inline" class="- topic/image " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="image:1;21:23"/></info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="step:3;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="cmd:3;24:22">输入邮箱，密码，用户名。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="info:2;25:23"><image href="images/enter%20information%20for%20registration.png" width="400" id="image_ix1_3tl_sdc" placement="inline" class="- topic/image " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="image:2;26:49"/></info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="step:4;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="cmd:4;29:22">完善个人信息。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="info:3;30:23"><image href="images/fill%20in%20other%20details.png" width="400" id="image_tgd_ltl_sdc" placement="inline" class="- topic/image " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="image:3;31:49"/></info>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/create_github_account.dita" xtrc="stepresult:1;32:29">注册成功。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

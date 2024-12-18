@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>GitHub for Technical Writers</title>
+    <topicref href="I.before%20u%20start.dita">
+        <topicref href="short_introduction.dita"/>
+        <topicref href="goal.dita"/>
+    </topicref>
+    <topicref href="ii__github_basics.dita">
+        <topicref href="what_is_github.dita"/>
+        <topicref href="advantages.dita"/>
+        <topicref href="create_github_account.dita"/>
+        <topicref href="create_repository.dita">
+            <topicref href="repository_interface.dita"/>
+            <topicref href="basic_concepts.dita"/>
+            <topicref href="how_to_create_repository.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="iii_generating_static_websites_using_github.dita">
+        <topicref href="how_to_use_github_desktop_to_generate_pages.dita"/>
+    </topicref>
+    <topicref href="iv_advanced_feature_team_collaboration.dita">
+        <topicref href="pull_request.dita">
+            <topicref href="concept_pr.dita"/>
+            <topicref href="how_to_pull_requests.dita"/>
+        </topicref>
+        <topicref href="github_group_collaboration.dita">
+            <topicref href="create_organization.dita"/>
+            <topicref href="create_group_repo.dita">
+                <topicref href="how_to_create_group_repo.dita"/>
+            </topicref>
+            <topicref href="how_to_collaborate_in_group.dita">
+                <topicref href="read_to_write.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="v_appendix.dita">
+        <topicref href="ending.dita"/>
+        <topicref href="resources.dita"/>
+    </topicref>
+</map>

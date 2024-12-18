@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/github_for_technical_writers.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">GitHub for Technical Writers</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">GitHub for Technical Writers</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="topic_svf_qql_sdc"><resourceid appid="topic_svf_qql_sdc" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">前言</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="short_introduction"><resourceid appid="short_introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">1.1 简介</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="goal"><resourceid appid="goal" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">1.2 目标</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="ii_github_basics"><resourceid appid="ii_github_basics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">GitHub 入门</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_github"><resourceid appid="what_is_github" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">2.1 什么是GitHub?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="advantages"><resourceid appid="advantages" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">2.2 GitHub的优势</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create_github_account"><resourceid appid="create_github_account" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">2.3 创建账号</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">简单几步即可创建GitHub账号。</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="create_repository"><resourceid appid="create_repository" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">2.4 创建仓库</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="repository_interface"><resourceid appid="repository_interface" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">2.4.1 仓库界面</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="basic_concepts"><resourceid appid="basic_concepts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">2.4.2 基本概念</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">这里介绍三个较为重要的概念，以便你更好理解后续步骤。</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_repository"><resourceid appid="how_to_create_repository" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">2.4.3 如何创建仓库</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_12" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="iii_generating_static_websites_using_github"><resourceid appid="iii_generating_static_websites_using_github" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">初级功能：使用GitHub生成静态网站</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_use_github_desktop_to_generate_pages"><resourceid appid="how_to_use_github_desktop_to_generate_pages" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">使用Github Desktop添加文件并发布网页</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_14" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="iv_advanced_feature_team_collaboration"><resourceid appid="iv_advanced_feature_team_collaboration" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">高级功能：团队协作</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_15" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="pull_request"><resourceid appid="pull_request" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">4.1 拉取请求</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_pr"><resourceid appid="concept_pr" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">4.1.1 拉取请求（Pull Requests，PR）</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_17" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_pull_requests"><resourceid appid="how_to_pull_requests" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">4.1.2 如何拉取请求</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_18" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="github_group_collaboration"><resourceid appid="github_group_collaboration" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">4.2 GitHub团队协作</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_19" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create_organization"><resourceid appid="create_organization" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">4.2.1 创建组织</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_20" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="create_group_repo"><resourceid appid="create_group_repo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">4.2.2 创建团队仓库</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_21" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_group_repo"><resourceid appid="how_to_create_group_repo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">创建团队仓库</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_collaborate_in_group"><resourceid appid="how_to_collaborate_in_group" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">4.2.3 团队协作</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_23" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="read_to_write"><resourceid appid="read_to_write" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">修改权限</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_24" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="v_appendix"><resourceid appid="v_appendix" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">附录</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_25" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="rescource_in_appendix"><resourceid appid="rescource_in_appendix" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">5.1 结语</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_26" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="resources"><resourceid appid="resources" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">5.2 资源链接</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="topic_svf_qql_sdc" oid="topic_svf_qql_sdc" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">前言</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<topic class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="short_introduction" oid="short_introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.1 简介</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">作为技术写作者，我们经常管理复杂的文档项目，与开发人员合作，并确保版本控制的顺畅进行。GitHub，作为一个强大的代码托管和协作平台，也是技术写作者的重要工具。</p>
+        <p class="- topic/p ">本教程将带你了解GitHub的基础知识，重点介绍与技术文档相关的工作流和功能。</p>
+    </body>
+</topic><topic class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="goal" oid="goal" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.2 目标</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">看完这篇指南，你将会收获：</b></p>
+        <p class="- topic/p "> • 了解GitHub的基础界面和功能</p>
+        <p class="- topic/p "> • 使用GitHub生成你自己的静态网站</p>
+        <p class="- topic/p "> • 使用GitHub进行Pull Request实践</p>
+        <p class="- topic/p "> • 使用GitHub进行团队协作</p>
+    </body>
+</topic></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="ii_github_basics" oid="ii_github_basics" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">GitHub 入门</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="what_is_github" oid="what_is_github" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2.1 什么是GitHub?</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">GitHub</b> 是通过 <b class="+ topic/ph hi-d/b ">Git</b> (分布式版本控制系统)进行版本控制的软件源代码托管服务平台。</p>
+        <p class="- topic/p ">它允许多个用户在项目中协作，跟踪更改并保持修订历史。对于技术写作者来说，它是一个强大的文档管理工具。</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="advantages" oid="advantages" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2.2 GitHub的优势</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <ul class="- topic/ul " id="unique_6_Connect_42_ul_xq5_hsl_sdc" nd:nd-id="ul_xq5_hsl_sdc">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">全球最大开源平台</b>：提供丰富的开源代码资源，方便开发者查找和学习。</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">团队协作支持</b>：提供完整的协作功能（如 Fork、Issue、Pull request），提升团队开发效率。</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">技术文档管理</b>：支持 Markdown 书写语言，便于文档编写和分享。</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">个人展示与宣传</b>：是程序员展示技术能力、丰富个人简历、进行技术宣传的重要平台。</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">免费静态网站托管</b>：GitHub Pages 提供免费博客和网站托管服务。</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">自动化集成功能</b>：支持自动化部署和任务处理，节省时间并提高效率。</li>
+        </ul>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="create_github_account" oid="create_github_account" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2.3 创建账号</ph></title>
+    <shortdesc class="- topic/shortdesc ">简单几步即可创建GitHub账号。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <ul class="- topic/ul " id="unique_7_Connect_42_ul_q4l_msl_sdc" nd:nd-id="ul_q4l_msl_sdc">
+                <li class="- topic/li ">首先要确保能正常访问GitHub，请使用VPN。</li>
+            </ul>
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">打开GitHub官网（<xref class="- topic/xref " format="html" href="https://github.com" scope="external"><?ditaot usertext?>https://GitHub.com</xref>）。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击<b class="+ topic/ph hi-d/b ">sign up for GitHub</b>。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/github%20page.png" id="unique_7_Connect_42_image_qtq_5qn_sdc" nd:nd-id="image_qtq_5qn_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">输入邮箱，密码，用户名。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/enter%20information%20for%20registration.png" id="unique_7_Connect_42_image_ix1_3tl_sdc" nd:nd-id="image_ix1_3tl_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">完善个人信息。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/fill%20in%20other%20details.png" id="unique_7_Connect_42_image_tgd_ltl_sdc" nd:nd-id="image_tgd_ltl_sdc" placement="inline" width="400"/></info>
+                <stepresult class="- topic/itemgroup task/stepresult ">注册成功。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task><topic class="- topic/topic " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="create_repository" oid="create_repository" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2.4 创建仓库</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="repository_interface" oid="repository_interface" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2.4.1 仓库界面</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">GitHub仓库界面如图所示。</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/github%20interface.png" id="unique_9_Connect_42_image_uyc_ztl_sdc" nd:nd-id="image_uyc_ztl_sdc" placement="inline" width="800"/></p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="basic_concepts" oid="basic_concepts" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2.4.2 基本概念</ph></title>
+    <shortdesc class="- topic/shortdesc ">这里介绍三个较为重要的概念，以便你更好理解后续步骤。</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+        <ul class="- topic/ul " id="unique_10_Connect_42_ul_bgz_d5l_sdc" nd:nd-id="ul_bgz_d5l_sdc">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">仓库（Repository</b><b class="+ topic/ph hi-d/b ">）</b><ul class="- topic/ul " id="unique_10_Connect_42_ul_p3j_24m_sdc" nd:nd-id="ul_p3j_24m_sdc">
+                    <li class="- topic/li "> 仓库是你项目的容器，包含文件、文件夹及版本历史。对于文档项目，每个仓库可能对应一本手册、指南或网站。</li>
+                </ul></li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">分支（Branches</b><b class="+ topic/ph hi-d/b ">）</b><ul class="- topic/ul " id="unique_10_Connect_42_ul_il4_24m_sdc" nd:nd-id="ul_il4_24m_sdc">
+                    <li class="- topic/li "> 分支允许你同时处理项目的不同部分。例如，可以创建一个分支来草拟更新，同时保持主分支的稳定性。</li>
+                </ul></li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">提交（Commits</b><b class="+ topic/ph hi-d/b ">）</b><ul class="- topic/ul " id="unique_10_Connect_42_ul_btq_24m_sdc" nd:nd-id="ul_btq_24m_sdc">
+                    <li class="- topic/li "> 提交是更改的快照。编写清晰的提交信息非常重要，例如：“更新了安装指南”。</li>
+                </ul></li>
+        </ul>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="how_to_create_repository" oid="how_to_create_repository" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">2.4.3 如何创建仓库</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击<b class="+ topic/ph hi-d/b ">“Create repository”</b>创建一个新的仓库。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/create%20repository.png" id="unique_11_Connect_42_image_r5s_n5l_sdc" nd:nd-id="image_r5s_n5l_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">输入仓库名称、描述，并选择可见性设置（建议选择<b class="+ topic/ph hi-d/b ">public</b>）。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/repo%20-%20public.jpg" id="unique_11_Connect_42_image_tlr_55l_sdc" nd:nd-id="image_tlr_55l_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">勾选<b class="+ topic/ph hi-d/b ">Add a README file</b>，点击<b class="+ topic/ph hi-d/b ">Create repository</b>。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/add%20README.jpg" id="unique_11_Connect_42_image_txl_w5l_sdc" nd:nd-id="image_txl_w5l_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">成功创建你的repository。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/repository-justatry.png" id="unique_11_Connect_42_image_fvm_frn_sdc" nd:nd-id="image_fvm_frn_sdc" placement="inline" width="400"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="iii_generating_static_websites_using_github" oid="iii_generating_static_websites_using_github" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">初级功能：使用<b class="+ topic/ph hi-d/b ">GitHub</b>生成静态网站</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="how_to_use_github_desktop_to_generate_pages" oid="how_to_use_github_desktop_to_generate_pages" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">使用Github Desktop添加文件并发布网页</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">安装<b class="+ topic/ph hi-d/b ">GitHub Desktop</b>：从 <xref class="- topic/xref " format="html" href="https://desktop.github.com/" scope="external"><?ditaot usertext?>GitHub Desktop 官方页面</xref> 下载并安装。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/github%20desktop.png" id="unique_13_Connect_42_image_qq2_gwl_sdc" nd:nd-id="image_qq2_gwl_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">克隆仓库</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_13_Connect_42_substeps_ghv_jwl_sdc" nd:nd-id="substeps_ghv_jwl_sdc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">打开你想复制的repository，点击<b class="+ topic/ph hi-d/b ">Code</b>，选择<b class="+ topic/ph hi-d/b ">Open with GitHub
+                            Desktop</b>。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/open%20with%20github%20desktop.png" id="unique_13_Connect_42_image_g1z_t2m_sdc" nd:nd-id="image_g1z_t2m_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">打开 <b class="+ topic/ph hi-d/b ">GitHub Desktop</b>，登录账户。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/authorize%20github%20desktop.png" id="unique_13_Connect_42_image_vcf_n2m_sdc" nd:nd-id="image_vcf_n2m_sdc" placement="inline" width="350"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击“<b class="+ topic/ph hi-d/b ">Clone a repository</b>”。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/clone%20repository.png" id="unique_13_Connect_42_image_zqt_4wl_sdc" nd:nd-id="image_zqt_4wl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">选择仓库并克隆到本地。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/clone%20your%20repository-choose%20path.png" id="unique_13_Connect_42_image_uls_twl_sdc" nd:nd-id="image_uls_twl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">添加文件</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_13_Connect_42_substeps_hs4_vwl_sdc" nd:nd-id="substeps_hs4_vwl_sdc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">在本地仓库文件夹新建<b class="+ topic/ph hi-d/b ">[docs]</b>文件夹和<b class="+ topic/ph hi-d/b ">[ditasrc]</b>文件夹。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/docs&amp;ditasrc.png" id="unique_13_Connect_42_image_e4k_2xl_sdc" nd:nd-id="image_e4k_2xl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">复制除了<b class="+ topic/ph hi-d/b ">[out]</b>文件夹之外的所有文档到<b class="+ topic/ph hi-d/b ">[ditasrc]</b>文件夹。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/ditasrc.png" id="unique_13_Connect_42_image_cbf_gxl_sdc" nd:nd-id="image_cbf_gxl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">把<b class="+ topic/ph hi-d/b ">[out]</b>文件夹内的<b class="+ topic/ph hi-d/b ">[webhelp]</b>文件夹所有文档复制到<b class="+ topic/ph hi-d/b ">[docs]</b>文件夹。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/docs.png" id="unique_13_Connect_42_image_wmt_hxl_sdc" nd:nd-id="image_wmt_hxl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">在 <b class="+ topic/ph hi-d/b ">GitHub Desktop</b> 中，选择“<b class="+ topic/ph hi-d/b ">Changes</b>”标签。在左下角聊天框输入：<b class="+ topic/ph hi-d/b ">add dita
+                                source and webhelp</b>。点击<b class="+ topic/ph hi-d/b ">“Commit to main”</b>。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/add%20dita%20source%20and%20webhelp.png" id="unique_13_Connect_42_image_uzz_mxl_sdc" nd:nd-id="image_uzz_mxl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">推送更改：点击“<b class="+ topic/ph hi-d/b ">Push Origin</b>”将更改同步到远程仓库。</b></cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/arrowhead-pushorigin.png" id="unique_13_Connect_42_image_hfp_byl_sdc" nd:nd-id="image_hfp_byl_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">启用 GitHub Pages</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_13_Connect_42_substeps_sq4_cyl_sdc" nd:nd-id="substeps_sq4_cyl_sdc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">回到GitHub网页，打开仓库，打开<b class="+ topic/ph hi-d/b ">docs</b>文件夹。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/open%20docs%20in%20github.png" id="unique_13_Connect_42_image_ynv_2yl_sdc" nd:nd-id="image_ynv_2yl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点“<b class="+ topic/ph hi-d/b ">Settings</b>”，在“<b class="+ topic/ph hi-d/b ">Pages</b>”选项下，选择分支（<b class="+ topic/ph hi-d/b ">main，docs</b>），点击“<b class="+ topic/ph hi-d/b ">Save</b>”。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/settings-pages-select%20branch.png" id="unique_13_Connect_42_image_k4r_3yl_sdc" nd:nd-id="image_k4r_3yl_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">等待几秒后刷新网页即可，网页将在<xref class="- topic/xref " format="html" href="https://username.github.io/repository-name/" scope="external"/>发布。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/pages%20result.png" id="unique_13_Connect_42_image_v1w_bsn_sdc" nd:nd-id="image_v1w_bsn_sdc" placement="inline" width="400"/></info>
+                        <stepresult class="- topic/itemgroup task/stepresult "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/github%20page%20result.jpg" id="unique_13_Connect_42_image_axj_tzl_sdc" nd:nd-id="image_axj_tzl_sdc" placement="inline" width="400"/></stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="iv_advanced_feature_team_collaboration" oid="iv_advanced_feature_team_collaboration" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">高级功能：团队协作</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<topic class="- topic/topic " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="pull_request" oid="pull_request" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">4.1 拉取请求</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="concept_pr" oid="concept_pr" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">4.1.1 拉取请求（Pull Requests，PR）</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">拉取请求是将一个分支的更改合并到另一个分支的提议。合作者可以在合并之前审查并讨论这些更改。</p>
+        <p class="- topic/p "/>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="how_to_pull_requests" oid="how_to_pull_requests" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">4.1.2 如何拉取请求</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">fork 项目</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_17_Connect_42_substeps_wkv_rcm_sdc" nd:nd-id="substeps_wkv_rcm_sdc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">选择一个你要提交 Pull request 的项目，以<xref class="- topic/xref " format="html" href="https://github.com/Freyaaf/onelasttry" scope="external"><?ditaot usertext?>onelasttry</xref>为例。</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击右上方的<b class="+ topic/ph hi-d/b ">Fork</b>按钮。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/fork%20a%20project.png" id="unique_17_Connect_42_image_p3r_msn_sdc" nd:nd-id="image_p3r_msn_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">选择Create fork。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/create%20fork.png" id="unique_17_Connect_42_image_qy2_wsn_sdc" nd:nd-id="image_qy2_wsn_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">可以看到这个repository已经被成功fork下来。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/already%20forked.png" id="unique_17_Connect_42_image_m3g_zsn_sdc" nd:nd-id="image_m3g_zsn_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">加入内容</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_17_Connect_42_substeps_zjt_mdm_sdc" nd:nd-id="substeps_zjt_mdm_sdc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击铅笔按钮，进入编辑模式。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/“pencil”%20.png" id="unique_17_Connect_42_image_emj_pdm_sdc" nd:nd-id="image_emj_pdm_sdc" placement="inline" width="350"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">按照格式加入你想加入的内容。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/type%20what%20you%20want%20to%20commit.png" id="unique_17_Connect_42_image_ryw_5dm_sdc" nd:nd-id="image_ryw_5dm_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">输入Commit信息，点击下面的<b class="+ topic/ph hi-d/b ">Commit changes</b>按钮。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/commit%20ur%20pr.png" id="unique_17_Connect_42_image_hgk_xdm_sdc" nd:nd-id="image_hgk_xdm_sdc" placement="inline" width="300"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">可以看到，你fork出来的repository中，内容已经发生改变。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/the%20repostory%20that%20u%20forked%20has%20changed.png" id="unique_17_Connect_42_image_y4y_ftn_sdc" nd:nd-id="image_y4y_ftn_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">发送Pull request</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_17_Connect_42_substeps_szn_z2m_sdc" nd:nd-id="substeps_szn_z2m_sdc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击你fork的仓库中的<b class="+ topic/ph hi-d/b ">Pull request</b>按钮。接下来的页面会显示你修改的内容，确认无误后点击<b class="+ topic/ph hi-d/b ">Create pull
+                                request</b>按钮。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/create%20pr.png" id="unique_17_Connect_42_image_gfl_3tn_sdc" nd:nd-id="image_gfl_3tn_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">接下来添加一些你的Pull request的描述，保证你的pr可以让原repository同意接受，等待对方处理即可。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><b class="+ topic/ph hi-d/b ">同意</b><b class="+ topic/ph hi-d/b ">Pull request</b></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_17_Connect_42_substeps_v24_kgm_sdc" nd:nd-id="substeps_v24_kgm_sdc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">查看<b class="+ topic/ph hi-d/b ">Pull requests</b>。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/receive%20pr.jpg" id="unique_17_Connect_42_image_bvn_ngm_sdc" nd:nd-id="image_bvn_ngm_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">审查无误后，可以merge这个Pull request到自己的仓库中，点击<b class="+ topic/ph hi-d/b ">Merge pull request</b>按钮。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/merge%20pr.jpg" id="unique_17_Connect_42_image_ohd_ygm_sdc" nd:nd-id="image_ohd_ygm_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击<b class="+ topic/ph hi-d/b ">Conform merge</b>。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/conform%20merge.jpg" id="unique_17_Connect_42_image_rlc_chm_sdc" nd:nd-id="image_rlc_chm_sdc" placement="inline" width="400"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">可以看到，Pull request的内容已经被合并到原repository中。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/pr%20already%20merged.jpg" id="unique_17_Connect_42_image_vp2_ptn_sdc" nd:nd-id="image_vp2_ptn_sdc" placement="inline" width="400"/></info>
+                        <info class="- topic/itemgroup task/info ">
+                            <p class="- topic/p "> </p>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><topic class="- topic/topic " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="github_group_collaboration" oid="github_group_collaboration" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">4.2 GitHub团队协作</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<task class="- topic/topic task/task " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="create_organization" oid="create_organization" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">4.2.1 创建组织</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <ul class="- topic/ul " id="unique_19_Connect_42_ul_hzd_nhm_sdc" nd:nd-id="ul_hzd_nhm_sdc">
+                <li class="- topic/li ">当你需要与团队进行团队协作时, 你可以新建一个组织。</li>
+            </ul>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在GitHub首页点击<b class="+ topic/ph hi-d/b ">Organizations</b>，选择<b class="+ topic/ph hi-d/b ">New organization </b>。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/new%20organization.jpg" id="unique_19_Connect_42_image_zvg_shm_sdc" nd:nd-id="image_zvg_shm_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">选择一个计划（对于小团队来说，免费的<b class="+ topic/ph hi-d/b ">Free</b>计划已经足够）。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/free%20plan.jpg" id="unique_19_Connect_42_image_qrm_whm_sdc" nd:nd-id="image_qrm_whm_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">输入你们组织的名称、联系邮件，点击确认。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/set%20up%20ur%20organization.jpg" id="unique_19_Connect_42_image_pdw_b3m_sdc" nd:nd-id="image_pdw_b3m_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">输入你要邀请的成员到用户名或邮箱，选中。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/invite%20others%20to%20organization.jpg" id="unique_19_Connect_42_image_z4f_f3m_sdc" nd:nd-id="image_z4f_f3m_sdc" placement="inline" width="400"/></info>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/result-complete%20organization%20setup.jpg" id="unique_19_Connect_42_image_mzp_33m_sdc" nd:nd-id="image_mzp_33m_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">对方接受后，你们的组织就创建成功了。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/organization%20invitation.png" id="unique_19_Connect_42_image_iwv_m3m_sdc" nd:nd-id="image_iwv_m3m_sdc" placement="inline" width="400"/></info>
+                <stepresult class="- topic/itemgroup task/stepresult "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/accepted%20as%20a%20member.png" id="unique_19_Connect_42_image_fd4_q3m_sdc" nd:nd-id="image_fd4_q3m_sdc" placement="inline" width="400"/></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task><topic class="- topic/topic " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="create_group_repo" oid="create_group_repo" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">4.2.2 创建团队仓库</ph></title>
+<task class="- topic/topic task/task " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="how_to_create_group_repo" oid="how_to_create_group_repo" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">创建团队仓库</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">具体步骤同创建个人仓库。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/create%20organization%20repo.jpg" id="unique_21_Connect_42_image_cdj_5jm_sdc" nd:nd-id="image_cdj_5jm_sdc" placement="inline" width="400"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><task class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="how_to_collaborate_in_group" oid="how_to_collaborate_in_group" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">4.2.3 团队协作</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">组长建立<b class="+ topic/ph hi-d/b ">dev</b>分支，方便后续合并代码。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/dev.jpg" id="unique_22_Connect_42_image_qdx_rkm_sdc" nd:nd-id="image_qdx_rkm_sdc" placement="inline" width="350"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">组员可以fork该repository到自己的账号。</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/fork%20repo%20from%20organization.png" id="unique_22_Connect_42_image_gjd_vkm_sdc" nd:nd-id="image_gjd_vkm_sdc" placement="inline" width="400"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">重复之前的步骤，使用GitHub desktop向仓库中添加文件，并且Pull request。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="read_to_write" oid="read_to_write" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">修改权限</ph></title>
+    <troublebody class="- topic/body troubleshooting/troublebody ">
+        <condition class="- topic/section troubleshooting/condition ">
+            <title class="- topic/title ">Condition</title>
+            <p class="- topic/p ">默认来说, 组织的普通成员对 repository 访问权限是只读, 即有浏览代码的权限, 没有修改的权限。 这样的权限管理是比较推荐的, 普通成员可以通过 Pull
+                request 来提交自己的代码, 团队所有者可以进行代码检查, 以防止出现不好的代码。</p>
+        </condition>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause ">
+                <title class="- topic/title ">Cause</title>
+                <p class="- topic/p ">成员需要修改的权限。</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy ">
+                <title class="- topic/title ">Remedy</title>
+                <responsibleParty class="- topic/p troubleshooting/responsibleParty ">组长可以修改。</responsibleParty>
+                <steps class="- topic/ol task/steps ">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">选择<b class="+ topic/ph hi-d/b ">Settings</b>，选中<b class="+ topic/ph hi-d/b ">Collaborators and
+                            teams</b>，点击<b class="+ topic/ph hi-d/b ">manage</b>。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/settings-manage.jpg" id="unique_23_Connect_42_image_zcd_xjm_sdc" nd:nd-id="image_zcd_xjm_sdc" placement="inline" width="400"/></info>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">选择<b class="+ topic/ph hi-d/b ">Member privileges</b>，选中<b class="+ topic/ph hi-d/b ">Read</b>，点击<b class="+ topic/ph hi-d/b ">Write</b>。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/member%20privileges%20-%20read.jpg" id="unique_23_Connect_42_image_qpy_ckm_sdc" nd:nd-id="image_qpy_ckm_sdc" placement="inline" width="400"/></info>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/change%20base%20permission%20to%20%22write%22.jpg" id="unique_23_Connect_42_image_dj1_5tn_sdc" nd:nd-id="image_dj1_5tn_sdc" placement="inline" width="400"/></info>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">权限已经修改。</cmd>
+                        <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/GitHub%20for%20Technical%20Writers/images/result-write.jpg" id="unique_23_Connect_42_image_pm5_wtn_sdc" nd:nd-id="image_pm5_wtn_sdc" placement="inline" width="400"/></info>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting></task></topic></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="v_appendix" oid="v_appendix" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">附录</ph></title>
+    <body class="- topic/body "/>
+<concept class="- topic/topic concept/concept " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="rescource_in_appendix" oid="rescource_in_appendix" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.1 结语</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">GitHub使技术写作者能够高效、透明地管理文档项目，并促进协作。通过参考本教程，希望你将能够充分发挥GitHub在技术写作项目中的潜力。祝写作顺利！</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="resources" oid="resources" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">5.2 资源链接</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ul class="- topic/ul " id="unique_26_Connect_42_ul_j2y_llm_sdc" nd:nd-id="ul_j2y_llm_sdc">
+                <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://docs.github.com/" scope="external"><?ditaot usertext?>GitHub
+                        官方文档（英语）</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://docs.github.com/zh/get-started" scope="external"><?ditaot usertext?>GitHub官方文档（中文）</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.markdownguide.org/" scope="external"><?ditaot usertext?>Markdown 使用指南</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://git-scm.com/book/zh/v2" scope="external"><?ditaot usertext?>Git
+                        使用教程</xref></li>
+            </ul>
+        </p>
+    </conbody>
+</concept></topic></map>

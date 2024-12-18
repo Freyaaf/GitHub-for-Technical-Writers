@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_svf_qql_sdc" path="I.before%20u%20start.html"/>
+   <appContext helpID="short_introduction" path="short_introduction.html"/>
+   <appContext helpID="goal" path="goal.html"/>
+   <appContext helpID="ii_github_basics" path="ii__github_basics.html"/>
+   <appContext helpID="what_is_github" path="what_is_github.html"/>
+   <appContext helpID="advantages" path="advantages.html"/>
+   <appContext helpID="create_github_account" path="create_github_account.html"/>
+   <appContext helpID="create_repository" path="create_repository.html"/>
+   <appContext helpID="repository_interface" path="repository_interface.html"/>
+   <appContext helpID="basic_concepts" path="basic_concepts.html"/>
+   <appContext helpID="how_to_create_repository" path="how_to_create_repository.html"/>
+   <appContext helpID="iii_generating_static_websites_using_github"
+               path="iii_generating_static_websites_using_github.html"/>
+   <appContext helpID="how_to_use_github_desktop_to_generate_pages"
+               path="how_to_use_github_desktop_to_generate_pages.html"/>
+   <appContext helpID="iv_advanced_feature_team_collaboration"
+               path="iv_advanced_feature_team_collaboration.html"/>
+   <appContext helpID="pull_request" path="pull_request.html"/>
+   <appContext helpID="concept_pr" path="concept_pr.html"/>
+   <appContext helpID="how_to_pull_requests" path="how_to_pull_requests.html"/>
+   <appContext helpID="github_group_collaboration"
+               path="github_group_collaboration.html"/>
+   <appContext helpID="create_organization" path="create_organization.html"/>
+   <appContext helpID="create_group_repo" path="create_group_repo.html"/>
+   <appContext helpID="how_to_create_group_repo" path="how_to_create_group_repo.html"/>
+   <appContext helpID="how_to_collaborate_in_group"
+               path="how_to_collaborate_in_group.html"/>
+   <appContext helpID="read_to_write" path="read_to_write.html"/>
+   <appContext helpID="v_appendix" path="v_appendix.html"/>
+   <appContext helpID="rescource_in_appendix" path="ending.html"/>
+   <appContext helpID="resources" path="resources.html"/>
+</map>

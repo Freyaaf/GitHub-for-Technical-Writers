@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="repository_interface">
+    <title>2.4.1 仓库界面</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>GitHub仓库界面如图所示。</p>
+        <p><image href="images/github%20interface.png" width="800" id="image_uyc_ztl_sdc"/></p>
+    </conbody>
+</concept>

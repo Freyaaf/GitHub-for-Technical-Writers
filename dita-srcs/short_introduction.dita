@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="short_introduction">
+    <title>1.1 简介</title>
+    <body>
+        <p>作为技术写作者，我们经常管理复杂的文档项目，与开发人员合作，并确保版本控制的顺畅进行。GitHub，作为一个强大的代码托管和协作平台，也是技术写作者的重要工具。</p>
+        <p>本教程将带你了解GitHub的基础知识，重点介绍与技术文档相关的工作流和功能。</p>
+    </body>
+</topic>

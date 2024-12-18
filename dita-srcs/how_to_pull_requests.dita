@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_pull_requests">
+    <title>4.1.2 如何拉取请求</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>fork 项目</b></cmd>
+                <substeps id="substeps_wkv_rcm_sdc">
+                    <substep>
+                        <cmd>选择一个你要提交 pull request 的项目，以<xref
+                                href="https://github.com/Freyaaf/onelasttry" format="html"
+                                scope="external">onelasttry</xref>为例。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>点击右上方的<b>Fork</b>按钮。</cmd>
+                        <info><image href="images/fork%20a%20project.png" width="400"
+                                id="image_p3r_msn_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>选择Create fork。</cmd>
+                        <info><image href="images/create%20fork.png" width="400"
+                                id="image_qy2_wsn_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>可以看到这个repository已经被成功fork下来。</cmd>
+                        <info><image href="images/already%20forked.png" width="400"
+                                id="image_m3g_zsn_sdc"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>加入内容</b></cmd>
+                <substeps id="substeps_zjt_mdm_sdc">
+                    <substep>
+                        <cmd>点击铅笔按钮，进入编辑模式。</cmd>
+                        <info><image href="images/%E2%80%9Cpencil%E2%80%9D%20.png" width="350"
+                                id="image_emj_pdm_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>按照格式加入你想加入的内容。</cmd>
+                        <info><image href="images/type%20what%20you%20want%20to%20commit.png"
+                                width="400" id="image_ryw_5dm_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>输入Commit信息，点击下面的<b>Commit changes</b>按钮。</cmd>
+                        <info><image href="images/commit%20ur%20pr.png" width="300"
+                                id="image_hgk_xdm_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>可以看到，你fork出来的repository中，内容已经发生改变。</cmd>
+                        <info><image
+                                href="images/the%20repostory%20that%20u%20forked%20has%20changed.png"
+                                width="400" id="image_y4y_ftn_sdc"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>发送Pull Request</b></cmd>
+                <substeps id="substeps_szn_z2m_sdc">
+                    <substep>
+                        <cmd>点击你fork的仓库中的<b>Pull request</b>按钮。接下来的页面会显示你修改的内容，确认无误后点击<b>Create pull
+                                request</b>按钮。</cmd>
+                        <info><image href="images/create%20pr.png" width="400"
+                                id="image_gfl_3tn_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>接下来添加一些你的pull request的描述，保证你的pr可以让原repository同意接受，等待对方处理即可。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>同意</b><b>Pull Request</b></cmd>
+                <substeps id="substeps_v24_kgm_sdc">
+                    <substep>
+                        <cmd>查看<b>Pull requests</b>。</cmd>
+                        <info><image href="images/receive%20pr.jpg" width="400"
+                                id="image_bvn_ngm_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>审查无误后，可以merge这个pull request到自己的仓库中，点击<b>Merge pull request</b>按钮。</cmd>
+                        <info><image href="images/merge%20pr.jpg" width="400" id="image_ohd_ygm_sdc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>点击<b>Conform merge</b>。</cmd>
+                        <info><image href="images/conform%20merge.jpg" width="400"
+                                id="image_rlc_chm_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>可以看到，pull request的内容已经被合并到原repository中。</cmd>
+                        <info><image href="images/pr%20already%20merged.jpg" width="400"
+                                id="image_vp2_ptn_sdc"/></info>
+                        <info>
+                            <p> </p>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="advantages">
+    <title>2.2 GitHub的优势</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <ul id="ul_xq5_hsl_sdc">
+            <li><b>全球最大开源平台</b>：提供丰富的开源代码资源，方便开发者查找和学习。</li>
+            <li><b>团队协作支持</b>：提供完整的协作功能（如 Fork、Issue、Pull Request），提升团队开发效率。</li>
+            <li><b>技术文档管理</b>：支持 Markdown 书写语言，便于文档编写和分享。</li>
+            <li><b>个人展示与宣传</b>：是程序员展示技术能力、丰富个人简历、进行技术宣传的重要平台。</li>
+            <li><b>免费静态网站托管</b>：GitHub Pages 提供免费博客和网站托管服务。</li>
+            <li><b>自动化集成功能</b>：支持自动化部署和任务处理，节省时间并提高效率。</li>
+        </ul>
+    </conbody>
+</concept>

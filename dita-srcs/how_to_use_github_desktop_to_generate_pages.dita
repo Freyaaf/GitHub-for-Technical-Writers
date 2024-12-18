@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_use_github_desktop_to_generate_pages">
+    <title>使用Github Desktop添加文件并发布网页</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>安装<b>GitHub Desktop</b>：从 <xref href="https://desktop.github.com/"
+                        format="html" scope="external">GitHub Desktop 官方页面</xref> 下载并安装。</cmd>
+                <info><image href="images/github%20desktop.png" width="400" id="image_qq2_gwl_sdc"
+                    /></info>
+            </step>
+            <step>
+                <cmd><b>克隆仓库</b></cmd>
+                <substeps id="substeps_ghv_jwl_sdc">
+                    <substep>
+                        <cmd>打开你想复制的repository，点击<b>Code</b>，选择<b>Open with GitHub
+                            Desktop</b>。</cmd>
+                        <info><image href="images/open%20with%20github%20desktop.png" width="400"
+                                id="image_g1z_t2m_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>打开 <b>GitHub Desktop</b>，登录账户。</cmd>
+                        <info><image href="images/authorize%20github%20desktop.png" width="350"
+                                id="image_vcf_n2m_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>点击“<b>Clone a repository</b>”。</cmd>
+                        <info><image href="images/clone%20repository.png" width="400"
+                                id="image_zqt_4wl_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>选择仓库并克隆到本地。</cmd>
+                        <info><image href="images/clone%20your%20repository-choose%20path.png"
+                                width="400" id="image_uls_twl_sdc"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>添加文件</b></cmd>
+                <substeps id="substeps_hs4_vwl_sdc">
+                    <substep>
+                        <cmd>在本地仓库文件夹新建<b>[docs]</b>文件夹和<b>[ditasrc]</b>文件夹。</cmd>
+                        <info><image href="images/docs%26ditasrc.png" width="400"
+                                id="image_e4k_2xl_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>复制除了<b>[out]</b>文件夹之外的所有文档到<b>[ditasrc]</b>文件夹。</cmd>
+                        <info><image href="images/ditasrc.png" width="400" id="image_cbf_gxl_sdc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>把<b>[out]</b>文件夹内的<b>[webhelp]</b>文件夹所有文档复制到<b>[docs]</b>文件夹。</cmd>
+                        <info><image href="images/docs.png" width="400" id="image_wmt_hxl_sdc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>在 <b>GitHub Desktop</b> 中，选择“<b>Changes</b>”标签。在左下角聊天框输入：<b>add dita
+                                source and webhelp</b>。点击<b>“Commit to main”</b>。</cmd>
+                        <info><image href="images/add%20dita%20source%20and%20webhelp.png"
+                                width="400" id="image_uzz_mxl_sdc"/></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>推送更改：点击“<b>Push Origin</b>”将更改同步到远程仓库。</b></cmd>
+                <info><image href="images/arrowhead-pushorigin.png" width="400"
+                        id="image_hfp_byl_sdc"/></info>
+            </step>
+            <step>
+                <cmd><b>启用 GitHub Pages</b></cmd>
+                <substeps id="substeps_sq4_cyl_sdc">
+                    <substep>
+                        <cmd>回到GitHub网页，打开仓库，打开<b>docs</b>文件夹。</cmd>
+                        <info><image href="images/open%20docs%20in%20github.png" width="400"
+                                id="image_ynv_2yl_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>点“<b>Settings</b>”，在“<b>Pages</b>”选项下，选择分支（<b>main，docs</b>），点击“<b>Save</b>”。</cmd>
+                        <info><image href="images/settings-pages-select%20branch.png" width="400"
+                                id="image_k4r_3yl_sdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>等待几秒后刷新网页即可，网页将在<xref
+                                href="https://username.github.io/repository-name/" format="html"
+                                scope="external"/>发布。</cmd>
+                        <info><image href="images/pages%20result.png" width="400"
+                                id="image_v1w_bsn_sdc"/></info>
+                        <stepresult><image href="images/result%20github%20page.jpg" width="400"
+                                id="image_hvy_gj1_tdc"/></stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

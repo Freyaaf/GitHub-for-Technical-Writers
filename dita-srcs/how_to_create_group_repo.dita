@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_group_repo">
+    <title>创建团队仓库</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>具体步骤同创建个人仓库。</cmd>
+                <info><image href="images/create%20organization%20repo.jpg" width="400"
+                        id="image_cdj_5jm_sdc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

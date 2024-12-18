@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pr">
+    <title>4.1.1 拉取请求（Pull Requests，PR）</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>拉取请求是将一个分支的更改合并到另一个分支的提议。合作者可以在合并之前审查并讨论这些更改。</p>
+        <p></p>
+    </conbody>
+</concept>

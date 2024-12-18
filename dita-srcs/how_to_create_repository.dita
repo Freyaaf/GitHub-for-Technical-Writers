@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_repository">
+    <title>2.4.3 如何创建仓库</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击<b>“Create repository”</b>创建一个新的仓库。</cmd>
+                <info><image href="images/create%20repository.png" width="400"
+                        id="image_r5s_n5l_sdc"/></info>
+            </step>
+            <step>
+                <cmd>输入仓库名称、描述，并选择可见性设置（建议选择<b>public</b>）。</cmd>
+                <info><image href="images/repo%20-%20public.jpg" width="400" id="image_tlr_55l_sdc"
+                    /></info>
+            </step>
+            <step>
+                <cmd>勾选<b>Add a README file</b>，点击<b>Create repository</b>。</cmd>
+                <info><image href="images/add%20README.jpg" width="400" id="image_txl_w5l_sdc"
+                    /></info>
+            </step>
+            <step>
+                <cmd>成功创建你的repository。</cmd>
+                <info><image href="images/repository-justatry.png" width="400"
+                        id="image_fvm_frn_sdc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

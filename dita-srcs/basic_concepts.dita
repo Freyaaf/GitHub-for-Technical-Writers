@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="basic_concepts">
+    <title>2.4.2 基本概念</title>
+    <shortdesc>这里介绍三个较为重要的概念，以便你更好理解后续步骤。</shortdesc>
+    <conbody>
+        <p></p>
+        <ul id="ul_bgz_d5l_sdc">
+            <li><b>仓库（Repository</b><b>）</b><ul id="ul_p3j_24m_sdc">
+                    <li> 仓库是你项目的容器，包含文件、文件夹及版本历史。对于文档项目，每个仓库可能对应一本手册、指南或网站。</li>
+                </ul></li>
+            <li><b>分支（Branches</b><b>）</b><ul id="ul_il4_24m_sdc">
+                    <li> 分支允许你同时处理项目的不同部分。例如，可以创建一个分支来草拟更新，同时保持主分支的稳定性。</li>
+                </ul></li>
+            <li><b>提交（Commits</b><b>）</b><ul id="ul_btq_24m_sdc">
+                    <li> 提交是更改的快照。编写清晰的提交信息非常重要，例如：“更新了安装指南”。</li>
+                </ul></li>
+        </ul>
+    </conbody>
+</concept>

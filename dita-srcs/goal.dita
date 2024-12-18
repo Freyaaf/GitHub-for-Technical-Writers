@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="goal">
+    <title>1.2 目标</title>
+    <body>
+        <p><b>看完这篇教程，你将会收获：</b></p>
+        <p> • 了解GitHub的基础界面和功能</p>
+        <p> • 使用GitHub生成你自己的静态网站</p>
+        <p> • 使用GitHub进行Pull Request实践</p>
+        <p> • 使用GitHub进行团队协作</p>
+    </body>
+</topic>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_collaborate_in_group">
+    <title>4.2.3 团队协作</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>组长建立<b>dev</b>分支，方便后续合并代码。</cmd>
+                <info><image href="images/dev.jpg" width="350" id="image_qdx_rkm_sdc"/></info>
+            </step>
+            <step>
+                <cmd>组员可以fork该repository到自己的账号。</cmd>
+                <info><image href="images/fork%20repo%20from%20organization.png" width="400"
+                        id="image_gjd_vkm_sdc"/></info>
+            </step>
+            <step>
+                <cmd>重复之前的步骤，可以使用GitHub desktop向仓库中添加文件，也可以进行pull request的操作。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

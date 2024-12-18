@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="rescource_in_appendix">
+    <title>5.1 结语</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>GitHub使技术写作者能够高效、透明地管理文档项目，并促进协作。通过参考本教程，希望你将能够充分发挥GitHub在技术写作项目中的潜力。祝写作顺利！</p>
+    </conbody>
+</concept>

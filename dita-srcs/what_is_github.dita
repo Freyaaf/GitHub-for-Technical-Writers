@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_github">
+    <title>2.1 什么是GitHub?</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p><b>GitHub</b> 是通过 <b>Git</b> (分布式版本控制系统)进行版本控制的软件源代码托管服务平台。</p>
+        <p>它允许多个用户在项目中协作，跟踪更改并保持修订历史。对于技术写作者来说，它是一个强大的文档管理工具。</p>
+    </conbody>
+</concept>
